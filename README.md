@@ -1,7 +1,7 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 2305002013
 
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
@@ -50,7 +50,7 @@ mlagents-learn --help
 15.Run tensor board in command prompt
 tensorboard --logdir results
 16 Get the results by running the localhost on specific port ( shown in tensorboard)
-```  
+ ```
 ### PROGRAM:
 ```
 1. File : RollerAgent.cs 
@@ -164,13 +164,7 @@ behaviors:
 ```
 ### OUTPUT:
 
-
-
-
-
-
-
-
+<img width="702" height="431" alt="image" src="https://github.com/user-attachments/assets/f73673cb-5402-49ad-81a9-9ccb55c875e7" />
 
 ### RESULT:
 Thus the AI character was trained using reinforcement learning.
